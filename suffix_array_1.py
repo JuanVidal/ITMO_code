@@ -2,8 +2,8 @@
 # ITMO files are intended to write python code for the academic files.
 # Check the complete course at https://codeforces.com/edu/course/2
 #
-# Suffix Array
-# @author:juanvidal - JProgrammer (CodeForces)
+# Suffix Array: Step 1
+# @author:JuanVidal - JProgrammer (CodeForces)
 
 #%% Starting with the length 1 chars
 arr = input()+'$'; l = len(arr); P = []; # Order of the string n (length 2^n)
